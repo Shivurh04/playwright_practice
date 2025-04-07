@@ -100,3 +100,24 @@ A QA engineer on a journey to master automation from the ground up.
 ## 📄 License
 
 Licensed under the [MIT License](LICENSE).
+
+
+## 🧪 QA in Action!
+
+Here’s how testing feels sometimes as a QA Engineer 😄
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9DPpf0zTqRASyzTi/giphy.gif" alt="Test Passed" width="400"/>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/jUwpNzg9IcyrK/giphy.gif" alt="Bug Found" width="400"/>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3ohhwncwHFfJ1YpA3O/giphy.gif" alt="Automated Testing" width="400"/>
+</p>
+
+---
+
+> QA isn't just a phase — it's a mindset! 💡
