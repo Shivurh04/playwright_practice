@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://placehold.co/800x200?text=Playwright+Practice+Project+by+Shivakumar+HR" alt="Project Banner" />
+  <img src="https://placehold.co/800x200?text=Playwright+Practice+Project+by+Shivakumar" alt="Project Banner" />
 </p>
 
 <p align="center">
@@ -86,7 +86,7 @@ This repo contains test cases, automation flows, and reusable patterns that help
 
 ## 🙋‍♂️ About Me
 
-Hi, I’m **Shivakumar H R** 👋  
+Hi, I’m **Shivakumar** 👋  
 A QA engineer on a journey to master automation from the ground up.
 
 - 🧠 Always learning  
